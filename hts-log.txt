@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 05 Oct 2024 16:53:24 at https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go -O1 "C:\My Web Sites\boa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/login/sign-in/{storeLink} (from https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/global-assets/1.0/graphic/buttons/arrow-37.png (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/components/layouts/two-column-wide-left-layout/1.7/graphic/blue-gradient.gif (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/components/modules/popup-content-module/2.1/graphic/back-to-top.png (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/components/modules/splash-main-content-module/1.2/graphic/info-loading.gif (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/components/modules-app/VIPAA/messaging-vipaa-module/1.0/graphic/info-close.gif (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/components/modules-app/VIPAA/modal-content-vipaa-module/1.0/graphic/close.gif (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/ecomm-common-ui-global-assets/global-assets/1.0/graphic/bp-3c-safe-pass-side-left.gif (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/pa/components/modules-app/VIPAA/safepass-vipaa-module/1.0/graphic/fsd-arrows.png (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/style/vipaa-v4-jawr.css)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/login/sign-in/Unable to load target-vec.js (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/script/vipaa-v4-jawr.js)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/login/sign-in/Loading target-vec.js (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/script/vipaa-v4-jawr.js)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/login/sign-in/hover.js?dt=login&r= (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/script/vipaa-v4-jawr.js)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/login/sign-in/aero.bankofamerica.com/30306/4aQ.js?r= (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/script/vipaa-v4-jawr.js)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/login/sign-in/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/script/vipaa-v4-jawr.js)
+16:56:48	Error: 	"Not Found" (404) at link https://secure.bankofamerica.com/login/sign-in/first (from https://secure.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/VIPAA/10.0/script/vipaa-v4-jawr.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 307 links scanned, 291 files written (4641695 bytes overall) [3432348 bytes received at 16825 bytes/sec], 3008117 bytes transferred using HTTP compression in 137 files, ratio 35%, 38.3 requests per connection
+(15 errors, 0 warnings, 0 messages)

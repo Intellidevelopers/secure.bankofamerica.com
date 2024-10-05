@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bankofamerica.com	TRUE	/	FALSE	1999999999	SPID	C2S2
+.bankofamerica.com	TRUE	/	FALSE	1999999999	SID	00289B412700670160F8
+secure.bankofamerica.com	TRUE	/	FALSE	1999999999	samesite	None
+secure.bankofamerica.com	TRUE	/	FALSE	1999999999	JS_VIPAA	00000SreCVGrI0KXxqKbz2qxWXM:1e7bnt5dq
+.bankofamerica.com	TRUE	/	FALSE	1999999999	SameSite	None
+.bankofamerica.com	TRUE	/	FALSE	1999999999	BOFA_LOCALE_COOKIE	es-US
+.secure.bankofamerica.com	TRUE	/	FALSE	1999999999	TS017f5af8	01d4eec79c91350a02a5245af8327ec7d3a7a4a89daed288492fe24af143a795c852c2eeee347f0d62d2f7d57e3b6353cf1d9240a4
+
